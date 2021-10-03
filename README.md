@@ -1,3 +1,3 @@
 # drum-machine
 
-https://github.com/vuthanglong/drum-machine
+https://vuthanglong.github.io/drum-machine/
